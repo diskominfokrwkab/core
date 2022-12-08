@@ -1,0 +1,13 @@
+{
+    "name": "diskominfo/core",
+    "description": "Core for diskominfo karawang developer",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DiskominfoCore\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.2.5 || ^8.0"
+    }
+}
